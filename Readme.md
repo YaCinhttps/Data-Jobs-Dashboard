@@ -2,7 +2,8 @@
  
 A comprehensive Power BI dashboard project analyzing data job market trends, salary distributions, job platform postings, and geographic availability across multiple job titles.
  
- ![Dashboard Data Page] (/images/DataJobDashboard.png)
+
+
  
 ## 📌 Overview
  
@@ -28,6 +29,7 @@ The landing page provides a bird's-eye view of the entire data job market.
 - **Median Hourly & Annual Salary by Job Title** – A combo bar/line chart comparing salary medians
 - **Hour vs. Year Salary Relationship** – A scatter plot mapping hourly vs. annual salary medians per job title
 ---
+![Dashboard Data Page](images/DataJobDashboard.png)
  
 ### 2. 🔍 Job Title Detail Page (e.g., Business Analyst)
 A drill-through page that surfaces in-depth metrics for a selected job title.
@@ -41,6 +43,7 @@ A drill-through page that surfaces in-depth metrics for a selected job title.
 - **Type of Modality** – Bar chart showing employment type distribution (Full-time, Contractor, Internship, etc.)
 - **Job Title Locations Map** – Esri-powered bubble map showing geographic job concentration worldwide
 ---
+![More Info](images/DataDescription.png)
  
 ## 📊 Key Metrics at a Glance
  
